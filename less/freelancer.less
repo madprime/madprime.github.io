@@ -124,12 +124,39 @@ header {
 		}
 		.intro-text {
 			.name {
+				font-size: 3.7em;
+			}
+			.skills {
+				font-size: 1.5em;
+			}
+		}
+	}
+	section {
+    h2 {
+    	font-size: 3em;
+    }
+	}
+}
+
+@media(min-width:992px) {
+	header {
+		.intro-text {
+			.name {
 				font-size: 4.75em;
 			}
 			.skills {
 				font-size: 1.75em;
 			}
 		}
+	}
+}
+
+@media(max-width:767px) {
+	p {
+		font-size: 18px;
+	}
+	p.small {
+		font-size: 14px;
 	}
 }
 
@@ -218,7 +245,7 @@ section {
     padding: 100px 0;
     h2 {
     	margin: 0;
-    	font-size: 3em;
+    	font-size: 2em;
     }
 }
 

@@ -113,10 +113,29 @@ header a.active {
     padding-bottom: 100px;
   }
   header .intro-text .name {
+    font-size: 3.7em;
+  }
+  header .intro-text .skills {
+    font-size: 1.5em;
+  }
+  section h2 {
+    font-size: 3em;
+  }
+}
+@media (min-width: 992px) {
+  header .intro-text .name {
     font-size: 4.75em;
   }
   header .intro-text .skills {
     font-size: 1.75em;
+  }
+}
+@media (max-width: 767px) {
+  p {
+    font-size: 18px;
+  }
+  p.small {
+    font-size: 14px;
   }
 }
 .navbar-custom {
@@ -199,7 +218,7 @@ section {
 }
 section h2 {
   margin: 0;
-  font-size: 3em;
+  font-size: 2em;
 }
 section.success {
   background: #CC6622;
