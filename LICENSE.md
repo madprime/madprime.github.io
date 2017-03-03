@@ -1,3 +1,7 @@
+All text is licensed under the the Creative Commons Attribution 4.0 International License (CC-BY-2.0). The license terms are available here: https://creativecommons.org/licenses/by/4.0/
+
+All software is licensed under the MIT license (see below).
+
 # The MIT License (MIT)
 Copyright (c) 2016-2017 webjeda, Madeleine Ball
 
