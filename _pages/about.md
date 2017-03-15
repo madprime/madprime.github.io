@@ -54,11 +54,11 @@ the individuals who are contributing to research,
 we can enable new ways to share data and new
 approaches to doing science.
 
-Open Humans is a program of the [Open Humans Foundation]
-(http://openhumansfoundation.org), a 501(c)(3) nonprofit
-organization dedicated to making a wide spectrum of data
-about humans accessible to increase biological literacy and
-improve human health.
+Open Humans is a program of the
+[Open Humans Foundation](http://openhumansfoundation.org),
+a 501(c)(3) nonprofit organization dedicated to making a
+wide spectrum of data about humans accessible to increase
+biological literacy and improve human health.
 
 Open Humans enables diverse new approaches to research,
 including:
