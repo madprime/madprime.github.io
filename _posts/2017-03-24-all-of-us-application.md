@@ -9,6 +9,8 @@ Earlier this afternoon, I submitted an application for Open Humans to be an
 
 **You can read the proposal here: [20170324-aou-proposal.pdf]({{ site.url }}/files/20170324-aou-proposal.pdf)**
 
+*The call for application: ["All of Us Research Program Engagement Partners (OT2)"](https://www.nih.gov/research-training/allofus-research-program/funding/all-us-research-program-engagement-partners-ot2)*
+
 I'm sharing the proposal publicly because I think it will be of interest
 to many community members &ndash; and because it's not an idea I expect any
 could steal. Open Humans members are something unique and powerful.
