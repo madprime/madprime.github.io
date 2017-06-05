@@ -17,28 +17,23 @@ permalink: /about/
   ![]({{site.baseurl}}/images/madeleine-ball-photo.jpg)
 </div>
 
-I am a [Shuttleworth Fellow](https://shuttleworthfoundation.org/fellows/),
-dedicated to applying "open" principles to change how we share and study
-human health data. I combine advocacy and technology to explore new,
+I am Executive Director of [Open Humans Foundation](http://openhumansfoundation.org)
+and co-founder of [Open Humans](https://www.openhumans.org). My work is funded
+by a [Shuttleworth Foundation Fellowship](https://shuttleworthfoundation.org/fellows/madeleine-ball/),
+which supports my vision for applying "open" principles to change how we share
+and study human health data.
+
+I combine advocacy and technology to explore new,
 participant-centered approaches for health data sharing, research, and
-citizen science. My work primarily occurs through
-[Open Humans](https://www.openhumans.org), a project I co-founded.
-
-As part my fellowship, I am also independently funded.
-I retain an unpaid role as Director of Research of
-[Open Humans Foundation](http://openhumansfoundation.org), and am
-on the Board of Directors.
-
-My work is multifaceted: I collaborate with diverse research
+citizen science. My work is multifaceted: I collaborate with diverse research
 teams and citizen scientists, perform outreach through
-writing and speaking, and continue to lead Open Humans
-technical development and operations.
+writing and speaking, and oversee Open Humans technical development and
+operations.
 
-Within Open&nbsp;Humans, I am also Principal Investigator of our
-[Public Data Sharing study](https://www.openhumans.org/public-data/).
-In addition, I continue to serve as Director of Research for the
-[Harvard Personal Genome Project](http://www.personalgenomes.org/harvard)
-and advise other research studies and projects.
+More about me:
+
+* [About me and my vision (written when I became Executive Director)]({{site.baseurl}}/introducing-myself-as-executive-director/)
+* [Current resume/cv]({{site.baseurl}}/files/resume.pdf)
 
 ## About Open Humans
 
