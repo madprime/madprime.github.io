@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-fellow
 title:  "My application (text+video)"
 date:   2017-03-15 12:00:00 +0700
 ---

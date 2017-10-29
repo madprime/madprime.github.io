@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-fellow
 title:  "Starting my fellowship"
 date:   2017-03-01 16:30:00 +0700
 ---

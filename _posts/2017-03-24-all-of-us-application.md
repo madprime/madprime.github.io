@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-fellow
 title:  'Our All of Us Proposal'
 date:   2017-03-24 17:00:00 +0700
 ---

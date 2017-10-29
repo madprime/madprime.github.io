@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-fellow
 title:  'Data, Privacy, and Power'
 date:   2017-08-14 9:07:00 +0700
 ---

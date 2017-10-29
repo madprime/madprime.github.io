@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-fellow
 title:  'Introducing myself as Executive Director.'
 date:   2017-06-01 16:30:00 +0700
 ---

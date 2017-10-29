@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-fellow
 title:  'Announcing Bastian Joining Open Humans!'
 date:   2017-09-27 10:15:00 +0700
 ---

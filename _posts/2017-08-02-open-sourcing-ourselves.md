@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-fellow
 title:  'Open Sourcing Ourselves'
 date:   2017-08-02 18:00:00 +0700
 ---
