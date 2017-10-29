@@ -50,7 +50,7 @@ We each select where our half goes. This year, I'll give almost all my portion
 to GiveWell itself, to grant to top charities at its discretion. In recent
 years I've followed their recommendations; this time around I'm happy to
 trust them directly, and grant them the efficiency of discretion. The funding
-Is most likely to go to the [Against Malaria
+is most likely to go to the [Against Malaria
 Foundation](https://www.givewell.org/charities/against-malaria-foundation)
 (AMF), GiveWell's current top recommendation, which [they
 estimate](https://www.givewell.org/how-we-work/our-criteria/cost-effectiveness/cost-effectiveness-models)
@@ -70,8 +70,8 @@ professional work. I am Executive Director of a nonprofit with its own vision
 for a better world &ndash; Open Humans Foundation. I don't see these as
 inconsistent. GiveWell represents the "safe" investment &ndash; like an index
 fund. And my profession is a single bet which could yield enormous value.
-Besides, Open Humans is a complement of sorts: the donation of data, rather
-than money.
+Besides, [Open Humans](https://www.openhumans.org) is a complement of sorts:
+the donation of data, rather than money.
 
 ## We give because we can. ##
 
