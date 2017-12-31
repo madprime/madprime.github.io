@@ -6,7 +6,7 @@ permalink: /contact/
 In general I prefer to be contacted publicly rather than privately.
 
 ## In a chatroom
-If you have questions related Open Humans, I'd like to encourage you to join
+If you have questions related to Open Humans, I'd like to encourage you to join
 the Open Humans Community Slack group.
 
 Use this to get an immediate invite:
