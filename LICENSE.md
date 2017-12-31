@@ -1,13 +1,13 @@
 # Text content
 
-All text is licensed under the the Creative Commons Attribution 4.0 International License (CC-BY-2.0). Please attribute Madeleine Ball and, if possible, link to the website www.madeleineball.net. License terms are available here: https://creativecommons.org/licenses/by/4.0/
+All text is licensed under the the Creative Commons Attribution 4.0 International License (CC-BY-2.0). Please attribute Mad Price Ball and, if possible, link to the website www.madpriceball.net. License terms are available here: https://creativecommons.org/licenses/by/4.0/
 
 # Software content
 
 All software is licensed under the MIT license (see below).
 
 ## The MIT License (MIT)
-Copyright (c) 2016-2017 webjeda, Madeleine Ball
+Copyright (c) 2016-2017 webjeda, Mad Price Ball
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

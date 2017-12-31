@@ -14,7 +14,7 @@ permalink: /about/
 ## About me
 
 <div class="about-page-img" markdown="1">
-  ![]({{site.baseurl}}/images/madeleine-ball-photo.jpg)
+  ![]({{site.baseurl}}/images/madpriceball-photo.jpg)
 </div>
 
 I am Executive Director of [Open Humans Foundation](http://openhumansfoundation.org)

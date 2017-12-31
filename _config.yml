@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "Madeleine Ball"
+title: "Mad Price Ball"
 title-font-size: '3em' # a provision to adjust the size of your title. If it is too long then do resize to a smaller value. By default it will be 4em.
 
-email: madeleine@openhumans.org
+email: mad@openhumans.org
 description: > # this means to ignore newlines until "baseurl:"
   Madeleine is co-founder of the Open Humans project and an advocate for
   combining technology and community to empower individuals and enable new
   approachs to research.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://madeleineball.net" # the base hostname & protocol for your site
+url: "http://madpriceball.net" # the base hostname & protocol for your site
 
 permalink: :title/
 
