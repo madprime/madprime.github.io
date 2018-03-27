@@ -17,7 +17,7 @@ Blockchain for genomes. For health. For personal data. I am a skeptic – and I'
 
 **So "blockchain for X" is almost always about "monetizing X".** It's not about data security, it's not about making the data better quality or universally useful. It's about creating a marketplace for the data.
 
-**If it's not about money, it's probably overkill.** Ensuring data integrity? Reporting updates? Blockchain isn't needed to do this! If it's not about monetization, you can usually ask "How could we solve this without blockchain?" and get an answer that’s more efficient and effective.
+**If it's not about money, it's probably overkill.** Ensuring data integrity? Reporting updates? Blockchain isn't needed to do this! If it's not about monetization, you can usually ask "How else could we solve this?" and get a better answer. If you just need a database, use a database!
 
 **And a blockchain isn't needed to monetize things!** Centralized brokers sell stuff all the time. To put a more specific point on it: blockchains enable decentralized monetization.
 
