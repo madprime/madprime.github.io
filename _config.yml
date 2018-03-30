@@ -11,9 +11,9 @@ title-font-size: '3em' # a provision to adjust the size of your title. If it is 
 
 email: mad@openhumans.org
 description: > # this means to ignore newlines until "baseurl:"
-  Madeleine is co-founder of the Open Humans project and an advocate for
+  Mad is co-founder of the Open Humans project and an advocate for
   combining technology and community to empower individuals and enable new
-  approachs to research.
+  approaches to research.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://madpriceball.net" # the base hostname & protocol for your site
 

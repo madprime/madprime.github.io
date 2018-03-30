@@ -96,7 +96,7 @@ Our role is to be stewards: we have built an empty garden. You are its
 gardeners.
 
 In this role, I hope you can trust us. Open Humans Foundation is a nonprofit,
-and my work as steward is supported by my [Shuttleworth Foundation Fellowship](https://shuttleworthfoundation.org/fellows/madeleine-ball/).
+and my work as steward is supported by my [Shuttleworth Foundation Fellowship](https://shuttleworthfoundation.org/fellows/mad-ball/).
 This funds me as an individual – and more – it grants me access to $250,000
 in project funding each year. But for each $10 in project funding I seek from
 the Shuttleworth Foundation, I must give $1 of my own income. This is their
