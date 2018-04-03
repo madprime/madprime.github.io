@@ -19,7 +19,7 @@ permalink: /about/
 
 I am Executive Director of [Open Humans Foundation](http://openhumansfoundation.org)
 and co-founder of [Open Humans](https://www.openhumans.org). My work is funded
-by a [Shuttleworth Foundation Fellowship](https://shuttleworthfoundation.org/fellows/madeleine-ball/),
+by a [Shuttleworth Foundation Fellowship](https://shuttleworthfoundation.org/fellows/mad-ball/),
 which supports my vision for applying "open" principles to change how we share
 and study human health data.
 
