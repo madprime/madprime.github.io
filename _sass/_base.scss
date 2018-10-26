@@ -113,15 +113,12 @@ h5{
     @include media-query($on-laptop) {
         font-size: 0.7em;
     }
-    
 }
 
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
     font-family: 'Alfa Slab One', cursive, sans-serif;
-    
-  
 }
 
 
@@ -158,6 +155,13 @@ blockquote {
     }
 }
 
+
+/**
+ * Muted text
+ */
+.text-muted {
+    color: $grey-color;
+}
 
 
 /**
@@ -226,5 +230,3 @@ pre {
         clear: both;
     }
 }
-
-
