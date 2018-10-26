@@ -25,8 +25,8 @@ advocate.
 
 And so, with those warning labels, I guess I'll get started.
 
-When picked a title to this talk I wanted to start with "personal data" and
-go to "collective" and I wasn't sure about the last word. Do I want "power"?
+When picking the title to this talk I wanted to start with "personal data" and
+go to "collective", and I wasn't sure about the last word. Do I want "power"?
 Do I want "good"? Do I want "action"?
 
 What does matter to me is that "collective" element, because **no person is
@@ -34,7 +34,7 @@ an island in the environment of big data**.
 
 I say this in part because our data becomes entangled with others. But also
 because, as Dawn showed us, our data has meaning when it is contextualized
-in communities, compared to others, and also has power when it is aggregated.
+in communities, compared to others. And also has power when it is aggregated.
 
 And so, **insistence on atomistic autonomy disempowers individuals** - if
 we solely focus on empowering people on the individual scale, then we
@@ -44,12 +44,13 @@ action**.
 <img style="float:right; max-width: 400px; width:50%; margin-left: 10px;" src="{{site.baseurl}}/images/mydata2018-slide-4.png">
 
 Those are not my words. Those are the words of Barbara Evans, who was
-writing about legal and bioethics issues around sharing in biomedical research.
-And biomedical research is great territory for learning lessons around the
-ethics of working with people who don't fully understand and consent - and
-what is consent? And Evans in this piece is very critical of some of the models
-as being insufficiently empowering of people on that collective scale, and
-the way that we've tried to empower people is this atomistic approach.
+writing about legal and bioethics issues around big data sharing in biomedical
+research. And biomedical research is great territory for learning lessons
+around the ethics of working with people who don't fully understand and
+consent - and what is consent? And Evans in this piece is very critical of
+some of the models as being insufficiently empowering of people on that
+collective scale, and the way that we've tried to empower people is this
+atomistic approach.
 
 And so I hope this here is a caution on how we think about we approach
 empowering ourselves with data, with personal data.
@@ -65,14 +66,14 @@ to slice it, but one way I'd like to put out here is examples of
 <img style="float:right; max-width: 400px; width:50%; margin-left: 10px;" src="{{site.baseurl}}/images/mydata2018-slide-6.png">
 
 One of these well known examples is "open source" and, in
-particular, Linux, which started as this grass roots project - where people
-start coming together - it's not a traditional, financially motivated
-commercial product. And yet somehow it works, and Linux is now infrastructure.
-Like, the vast majority of the internet is running Linux, your Android phones
-are running Linux - it's so much a part of the infrastructure that
-corporations have become heavily invested in it, and it is now a shared good.
-Not just on some sort of individual hobby project level, but on an economic
-level one.
+particular, Linux, which started as this grass roots project -- where
+individuals start coming together -- it's not a traditional, financially
+motivated commercial product. And yet somehow it works, and Linux is now
+infrastructure. Like, the vast majority of the internet is running Linux, your
+Android phones are running Linux - it's so much a part of the infrastructure
+that corporations have become heavily invested in it, and it is now a shared
+good. Not just on some sort of individual hobby project level, but on an
+economic level.
 
 <img style="float:right; max-width: 400px; width:50%; margin-left: 10px;" src="{{site.baseurl}}/images/mydata2018-slide-7.png">
 
@@ -84,18 +85,18 @@ popular site on the web.
 <img style="float:right; max-width: 400px; width:50%; margin-left: 10px;" src="{{site.baseurl}}/images/mydata2018-slide-8.png">
 
 These are both examples of what Yochai Benkler calls "commons based peer
-production", and I think it's Benkler's an economist, and I think it's
-important to call out that this is not just magic. He looks at these systems
-and asks, as an economist, "How does that happen?" And also looks at the
-potential opportunities it creates. It creates an environment where by doing
+production", and Benkler's an economist, and I think it's important to call
+out that this is not just magic. He looks at these systems and he asks, as an
+economist, "How does that happen?" And also looks at the potential
+opportunities it creates. It creates an environment where by doing
 things collectively, one actually empowers individuals to have more autonomy.
 That they become more engaged and informed, and we hope that this may promote
 a more equitable approach.
 
-It's not the full solution, but technology is collectively produced and
+It's not the full solution, but when technology is collectively produced and
 collectively controlled, those are powerful things. It doesn't come from magic.
 When we think about these grassroots efforts, you might think, "it just takes
-a lot of enthusiasm". No, no. When he thinks about this, when other
+a lot of enthusiasm". No, no, no. When he thinks about this, when other
 economists think about this, they think: what are the features you need
 to design a system that's actually going to succeed in peer production?
 
@@ -104,7 +105,7 @@ to design a system that's actually going to succeed in peer production?
 Some of the success stories around peer production are around things like
 *functional* products. Wikipedia's producing functional elements of information
 in articles. Another example is OpenStreetMap - it's a functional product.
-And my personal data is something that has a lot of functionality to it.
+And my personal data has a lot of functionality to it.
 
 *Modularity* is important. People need to be able to contribute to this
 ecosystem in a way where they don't have to contribute to all of it at once.
@@ -118,7 +119,7 @@ stakeholders are benefiting.
 
 <img style="float:right; max-width: 400px; width:50%; margin-left: 10px;" src="{{site.baseurl}}/images/mydata2018-slide-12.png">
 
-So that's the context I wanted to set up for Open Humans, which is a project
+So that's the context I wanted to set up for Open Humans, which is this project
 that I lead and co-founded. And it was motivated from my background in
 research. I have spent years trying to help people share their data --
 get their data and share -- for some altruistic purpose, for research.
@@ -132,9 +133,9 @@ the individual scale for your own health to a collective scale of knowledge.
 
 One of the problems that I saw in how we were doing research, that frustrated
 me, is that when we do research with personal data -- like genomes -- the
-original data holders are nearly universal gatekeepers. That be a study that
-collected the data, or a corporation that has devices, or websites that
-just scraping data about you.
+original data holders are nearly universal gatekeepers. That can be a study
+that collected the data, or a corporation that has devices, or websites that
+are just scraping data about you.
 
 <img style="float:right; max-width: 400px; width:50%; margin-left: 10px;" src="{{site.baseurl}}/images/mydata2018-slide-17.png">
 
@@ -143,17 +144,17 @@ dependent on that relationship with the gatekeeper. And you can ask the
 gatekeeper, "Please share." And the gatekeeper might say "No, I can't
 violate privacy." Or actually they might say something more like, "Pay me."
 
-Regardless of what their reasoning is -- and they may have other reasons as
+Regardless of what their reasoning is -- and they may have other reasonings as
 well -- they are the decider. They get to decide whether you get to do a
-project that studies their data. It's not our data. And that influences
-what is understand and what is not. They can discourage research that's not
+project that studies *their* data. It's not our data. And that influences
+what is understood and what is not. They can discourage research that's not
 convenient to them.
 
-What's worse is that it's very hard to add new data. Sometimes if you want to
+What's worse is it's very hard to add new data. Sometimes if you want to
 ask a question of the data, you need to add a little more. You need to ask
 one additional question -- a survey question -- you just want to say,
-"How do these little things that are easy to answer correlate to something
-you already have?" And the answer is almost always, "No" because that
+"How do these little things that are easy to answer correlate to this data
+that you already have?" And the answer is almost always, "No" because that
 relationship with the individuals is of high value to the organization that
 has collected them. And I respect the value of those relationships, I see why
 they do that, but ... it's limiting.
@@ -162,7 +163,7 @@ they do that, but ... it's limiting.
 
 So, how can we do better? What's our alternative?
 
-If I want to create a project to solicit that data I'd have to get out on the
+If I wanted to create a project to solicit that data I'd have to get out on the
 street, hold up a cardboard sign, say "Please share your data with my study."
 I might get one or two people hearing me, but it's hard to find people.
 
@@ -174,31 +175,31 @@ a chorus of people responding to you.
 
 And even better, some of them might say "No thanks." And this is great because
 the decision is not being made for the group as a whole, and you can ask for
-things that might not have been possible if had been something that you
-needed to authorize for the whole group at once, where you end up in a
+things that might not have been possible if was something that you
+need to authorize for the whole group at once, where you end up in a
 "lowest common denominator" situation.
 
 <img style="float:right; max-width: 400px; width:50%; margin-left: 10px;" src="{{site.baseurl}}/images/mydata2018-slide-26.png">
 
 Another potential benefit that we might not realize when there's gatekeeping
 with the data holders is that data's not finite. What if many people could be
-asking? What if you made it easy? I think if we gathered enough people with the
-right system, we can make it easy to authorize sharing with multiple places.
-When we focus a lot on how we're going to manage data management or sharing
-with specific entities, we sometimes forget that we don't need just one model,
-that I can share my data with this institution, and that project, and that
-data commons. And I don't have to be exclusive. We don't have to be putting
-our eggs in one basket.
+asking? What if you made it easy? I think that if we gathered enough people
+with the right system, we can make it easy to authorize sharing with multiple
+places. When we focus a lot on how we're going to manage data management or
+sharing with specific entities, we sometimes forget that we don't need just
+one model, that I can share my data with this institution, and that project,
+and that data commons. And I don't have to be exclusive. We don't have to be
+putting our eggs in one basket.
 
 <img style="float:right; max-width: 400px; width:50%; margin-left: 10px;" src="{{site.baseurl}}/images/mydata2018-slide-28.png">
 
 Data can be combined. This is something that those original data holders don't
-get to do. You can aggregate through the individual combinations that were not
-previously naturally occurring. You can take genome data and combine it with
-your Twitter data! I'm not really sure whether there's any genetic variants
-predicting whether I'm going to use emojis -- but the imagine might run wild
-here on things that we can combine, that we couldn't combine before.
-You may be able to do new things that weren't possible.
+get to do. You can aggregate through the individual disperse data, combinations
+that were not previously naturally occurring. You can take genome data and
+combine it with your Twitter data! I'm not really sure whether there's any
+genetic variants predicting whether I'm going to use emojis -- but the imagine
+might run wild here on things that we can combine, that we couldn't combine
+before. You may be able to do new things that weren't possible.
 
 <img style="float:right; max-width: 400px; width:50%; margin-left: 10px;" src="{{site.baseurl}}/images/mydata2018-slide-33.png">
 
@@ -207,11 +208,11 @@ set and I don't have a connection to the person, and it's not going to change,
 it feels dead to me. But if we have people *and* their data, and they have the
 ability to communicate with projects that they're sharing the data with, that
 data can grow over time. And projects can contribute new data. So one project
-may share data, and another project ask for it, and then the person may share
-it with that project and that project returns _new_ data. So this is data that's
-growing over time. Data can flow across projects. It's not one project
-deciding what can be done with data or not, and data can living. You can
-ask new questions of someone. It's making it richer.
+may share data, and another project may ask for it, and then the person may
+share it with that project -- and then that project returns _new_ data. So
+this is data that's growing over time. Data can flow across projects. It's not
+one project deciding what can be done with data or not. And data is living, you
+can ask new questions of someone, it's making it richer.
 
 So I think, broadly speaking, we can be more empowered by doing it together.
 
@@ -225,21 +226,21 @@ type 1 diabetes and is a highly empowered individual. She's part of a
 movement of people which starts with Nightscout data, an open source project
 to monitor continuous glucose monitoring data.
 
-For type 1 diabetes patients this is very important data to them -- one of the
+For type 1 diabetes patients this is very important data for them -- one of the
 statistics that I didn't know before becoming familiar with this community,
-is that there's a 1 in 20 lifetime risk of dying in your sleep with this
+is that there's a lifetime risk of 1 in 20 of dying in your sleep with this
 condition, due to hypoglycemic shock. And Dana got into it because she's a
 heavy sleeper, and she couldn't get her device to make a loud enough noise
-when this goes hypo -- and so she got involved by making a louder alarm, in
+when it goes hypo -- and so she got involved by making a louder alarm, in
 this open source community, empowering individuals. And then, with her
-now-husband Scott, worked with him to make an algorithm -- and then, closing
-the loop -- so, using the data, they can automate an insulin pump.
+now-husband Scott, worked on making an algorithm -- and then, closing
+the loop -- so, using that data, they can automate an insulin pump.
 
 <img style="float:right; max-width: 400px; width:50%; margin-left: 10px;" src="{{site.baseurl}}/images/mydata2018-slide-37.png">
 
 I think there might be a member of this community in this room - Mikail, are
 you in here? No? I ran into him yesterday - and he's using this device. He's
-using the artificial pancreas system. So, there's an empowered user here at
+using the artificial pancreas system. So, we have an empowered user here at
 the event, I think he showed up on Slack. These are real people.
 
 But the problem they face is: how do you enable community research? They have
@@ -329,12 +330,12 @@ And this is me analyzing my Twitter data, we have support for Twitter data,
 and apparently... sometime in 2017, I really upped my emoji game. This is
 my emoji count.
 
-This is written by someone else and shared, this code is shared and I can run
-it without understanding it, and I don't have to share my data with him.
+This is written by someone else, the code is shared, and I can run
+it without understanding it. And I don't have to share my data with him.
 
 I love this little project because it creates a potential ecosystem for us
-for creating analyses, without having the person that wrote the code
-to do the analysis for you, and to run the code in a reproducible environment.
+for creating analyses, without needing the person that wrote the code
+doing the analysis for you, and it runs the code in a reproducible environment.
 
 <img style="float:right; max-width: 400px; width:50%; margin-left: 10px;" src="{{site.baseurl}}/images/mydata2018-slide-52.png">
 
