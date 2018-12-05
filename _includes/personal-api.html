@@ -1,0 +1,100 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+<style>
+   .invisible {
+     visibility: hidden;
+   }
+</style>
+
+<div style="text-align:center;">
+  <div style="display:inline-block;color:#888;border:solid 2px #eee;border-radius:10px;font-size:80%;padding:10px 20px;">
+    <span id='json_url' href='https://my-personal-api.herokuapp.com/data/81065637/'></span>
+    <div id='location_info' class='invisible'>
+      Mad's currently in <span id='location_name'></span>.
+    </div>
+    <div id='time_info' class='invisible'>
+      The local time is <i class="far fa-clock"></i>
+      <span id='local_time'></span> (<span id='time_zone'></span>).
+    </div>
+    <div id='weather' class='invisible'>
+      The weather is
+        <i><i id='condition_icon'></i> <span id='weather_condition'></span></i>
+        and <span id='weather_temperature_f'></span>˚F
+        (<span id='weather_temperature_c'></span>˚C).</span>
+    </div>
+    <div id='battery_info' class='invisible'>
+      Their phone is <i id='battery_icon'></i>
+      <span id='battery_level'></span>% charged and is currently
+      <span id='battery_state'></span>.
+    </div>
+    <div id='music_info' class='invisible'>
+      They recently jammed to <i class="fas fa-music"></i>
+      <i><span id='title'></span></i> by <span id='artist'></span>.
+    </div>
+  </div>
+  <center>
+    <span style="font-size:75%;color:#888;">
+      Want something like this on your page? Check out the
+      <a href="https://my-personal-api.herokuapp.com/">Personal API</a>!
+    </span>
+  </center>
+</div>
+
+<script>
+console.log("hello whirled");
+$(function(){
+    var json_url = $('#json_url').attr('href');
+    $.get(json_url, function(data){
+        console.log(data);
+        if(data.location.tz){
+          console.log("Yes TZ");
+
+          var local_time = new Date( new Date().getTime() + data.location.tz_offset * 1000).toUTCString().replace( / GMT$/, "" ).substring(17,22);
+          $("#time_info").removeClass('invisible');
+          $("#local_time").html(local_time);
+          $("#time_zone").html(data.location.tz);
+        };
+        if(data.location.place){
+          $("#location_name").html(data.location.place);
+          $("#location_info").removeClass('invisible');
+        };
+
+        if(data.location.weather){
+          var weather_temperature_f = data.location.weather.temperature_outside * 9.0 / 5.0 + 32.0;
+          $("#weather_condition").html(data.location.weather.condition_text);
+          $("#weather_temperature_f").html(weather_temperature_f);
+          $("#weather_temperature_c").html(data.location.weather.temperature_outside);
+          $("#condition_icon").attr("class", "wi wi-yahoo-" + data.location.weather.code);
+          $("#weather").removeClass('invisible');
+        };
+
+        if(data.location.battery_level){
+          console.log('battery');
+          var battery_level = data.location.battery_level*100;
+          if(battery_level<10){
+            $("#battery_icon").attr("class", "fas fa-battery-empty");
+          } else if (battery_level < 30){
+            $("#battery_icon").attr("class", "fas fa-battery-quarter");
+          } else if (battery_level < 60){
+            console.log('battery_should_be_half');
+            $("#battery_icon").attr("class", "fas fa-battery-half");
+          } else if (battery_level < 85){
+            $("#battery_icon").attr("class", "fas fa-battery-three-quarters");
+          } else {
+            $("#battery_icon").attr("class", "fas fa-battery-full");
+          };
+          $("#battery_level").html(Math.floor(battery_level));
+          $("#battery_state").html(data.location.battery_state);
+          $("#battery_info").removeClass('invisible');
+        }
+
+      if(data.music){
+        $("#title").html(data.music.title);
+        $("#artist").html(data.music.artist);
+        $("#music_info").removeClass('invisible');
+      };
+
+    });
+
+});
+</script>
