@@ -1,8 +1,17 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.css">
 <style>
    .invisible {
      visibility: hidden;
+   }
+   .flag-icon {
+     opacity: 0.5;
+     filter: grayscale(100%);
+     height: 0.7em;
+     moz-border-radius: 0px;
+     -webkit-border-radius: 0px;
+     border-radius: 0px;
    }
 </style>
 
@@ -11,6 +20,7 @@
     <span id='json_url' href='https://my-personal-api.herokuapp.com/data/81065637/'></span>
     <div id='location_info' class='invisible'>
       Mad's currently in <span id='location_name'></span>.
+      <img id='flag' class='flag-icon' src=''/></span>
     </div>
     <div id='time_info' class='invisible'>
       The local time is <i class="far fa-clock"></i>
@@ -56,6 +66,7 @@ $(function(){
         };
         if(data.location.place){
           $("#location_name").html(data.location.place);
+          $("#flag").attr("src", data.location.flag_url);
           $("#location_info").removeClass('invisible');
         };
 
