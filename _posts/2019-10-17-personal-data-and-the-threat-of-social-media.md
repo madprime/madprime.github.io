@@ -1,29 +1,32 @@
 ---
 layout: post-fellow
 title: >
-    What if the problem isn't personal data
-date:   2019-10-18 10:00:00 PDT
+    Personal data & the threat of social media
+date:   2019-10-17 16:00:00 PDT
 ---
 
 "[The Great Hack](https://www.netflix.com/title/80117542)" & the work of Carole Cadwalladr & Paul-Olivier Dehaye exposes the profoundly troubling reality that democracy is under assault – throughout the Western world – via the instruments of social media managed by tech giants, especially Facebook. I watched the documentary at [MyData 2019](https://mydata2019.org/) a couple weeks ago.
 
+I'm sharing these thoughts now, all the more cogent in light of Mark Zuckerberg's [disingenuous
+defense of "free speech"](https://www.nytimes.com/2019/10/17/business/zuckerberg-facebook-free-speech.html), signalling Facebook's continued failure to face this threat to democracy.
+
 ## "Is personal data the real problem?"
+
+The documentary emphasizes Facebook's access and use of personal data, but is that the real problem?
 
 After the movie screening, Carole and Paul were joined by Jessikka Aro to discuss as a panel. I asked the panel this after the movie: what if the problem isn't personal data? Google hoards personal data, but is it the same threat to democracy?
 
-The movie emphasizes Facebook's access and use of personal data, but I think this might be a distraction. I don't mean that personal data isn't part of the problem, but rather: it is vitally important that the correct problem be solved. This is destroying our democracy. It already has.
+I think the argument for "privacy" is a distraction. I don't mean that personal data isn't part of the problem, but rather: it is vitally important that the correct problem be solved. This is destroying our democracy. It already has.
 
 I wrote my thoughts up shortly afterward, and I'm sharing them here, because I think it's important we correctly understand the problem.
 
-### Technology that is demonic.
+### A bit of reflection.
 
-After watching this movie, and knowing this general area for years, I think there may be a different conclusion. I don't think this is about the personal data. I think "social media" is a technology that has the power to unite humanity – and the power to destroy democracy.
+My reaction also comes from my experience in tech, where I've come to witness the two-edged nature of dramatic advances. The moment where we realize we have created a monster.
 
-This is a sentiment that comes from my experience as an engineer, scientist, and technologist. The moment where we realize we have created a monster. I've experienced those moments – at least once. I was in a room when Kevin Esvelt – who develops DNA-editing technology – told us, "This is private, and I need your help to think about it."
+I used to work in biotech, in a lead research lab. I was in a room when Kevin Esvelt, who develops DNA-editing technology, told us, "This is private, and I need your help to think about it." He then showed us how his technology could eradicate malaria – and how it could also accidentally destroy an entire species.
 
-This movie left me with the same, terrible sense of duality I had that day as I learned how one could accidentally destroy an entire species.
-
-Technology is a two-edged sword, its creations can be godlike or demonic.
+This movie left me with the same, terrible sense of duality I had that day. Major innovations can be a two-edged sword, it cuts in both directions – its results can be godlike and demonic. I think "social media" is one such invention.
 
 ## What if...
 
@@ -63,17 +66,15 @@ Honestly I think I'm kind of screwed. I may as well be dropping pamphlets from a
 
 ### What's the problem?
 
-As I suggested above, I think it's "social media". I think Jessikka Aro showed Twitter is also a threat. (Not Google, Apple, Amazon, Netflix, or Microsoft.)
+As I suggested above, I think it's "social media". I think the experiences of the third panelist, Jessikka Aro, showed Twitter is also a threat. (Not Google, Apple, Amazon, Netflix, or Microsoft.)
 
 ### …and what do we do?
 
-First: it's important to just get this far, to think the real problem might be something else.
+First: it's important to just get this far, to think the real problem might not be about "privacy". (Not in any way we can effectively legislate, because illegal entities will ignore the law.) That it might be something else.
 
-Next I'm going to admit: this is scary and I don't have an easy answer. (But as a technologist I do think an answer can be found – even if it's as radical as banning social media.)
+Social media has weaponized communications. It's destroying us, and I don't know exactly how to fix that without dismantling social media itself. But I know where I'd start.
 
-I think somehow social media has weaponized communications, it's destroying us, and I don't know exactly how to fix that without dismantling social media itself.
-
-But I know where I'd start: I'd push for studying the problem, proactively. I'd start collecting ideas. (Could the platform create technical limits that limit how quickly content spreads, and would that help? Can we get better at detecting bad actors in the system with AI/ML?)
+I'd push for studying the problem, proactively. I'd start collecting ideas. (Could the platform create technical limits that limit how quickly content spreads, and would that help? Can we get better at detecting bad actors in the system with AI/ML?)
 
 Michelle Meyer made an important point when she [advocated for companies to do experiments, to do research](https://www.nytimes.com/2015/06/21/opinion/sunday/please-corporations-experiment-on-us.html). The deployment of these technologies without studying their effects on people is worse – reckless – it has the potential for much greater harm.
 
@@ -91,6 +92,10 @@ There's alternative attacks – maybe this is a monopoly problem, maybe we can b
 
 It's important to recognize that people can't just leave. They won't. [You have to pay people $1000 to stop using Facebook for a year.](http://nymag.com/intelligencer/2019/01/youd-have-to-pay-someone-usd1-000-to-stop-using-facebook.html) That's an order of magnitude more than people are worth to Facebook – Facebook is literally worth far more to us than we are to it.
 
-We can't keep relying on atomistic agency. Because information is cheap, we can all have copies of it – and bandwidth is nearly limitless for text – it is tempting to consider the internet a public good that benefits from minimal regulation. That is decreasingly the case. Which information we're able to consume is inherently limited by our own capacities.
+### We can't keep relying on atomistic agency.
 
-That means the internet isn't infinite at all: it's a shared resource that can be poisoned and misused. Which means, in turn, that it should – per Ostrom's observation – have rules that are responsive to those affected by the rules. In Facebook's case, that is over 2 billion users as of 2019. The people affected by the internet is increasingly "all of humanity". It's a technology that has yielded innovation, but is also one that can destroy us.
+We can't keep relying on atomistic agency. Because information is cheap, we can all have copies of it – and bandwidth is nearly limitless for text – it is tempting to consider the internet a public good that benefits from minimal regulation. That is decreasingly the case. Which information we're able to consume is inherently limited by our own capacities. The internet isn't infinite, because we are not infinite beings.
+
+We can't keep relying on atomistic agency! Because our personal data in Facebook is entangled with our interactions with others. We can ask for portability for ourselves, but we cannot export our friends and family. We might consider our content in the network to be "personal data", but it is not atomistic in nature. We cannot export the social network.
+
+Social media isn't a benign public good; it's a commons, a shared communications resource that can be co-opted, poisoned, and misused. Which means, in turn, that it should – per [Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom)'s observation – have rules that are responsive to those affected by the rules. In Facebook's case, that is over 2 billion users as of 2019. The people affected by the internet is increasingly "all of humanity". Social media a technology that has given us new ways to communicate and connect, but is also a technology that can destroy us.
