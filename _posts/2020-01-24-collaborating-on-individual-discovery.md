@@ -6,6 +6,8 @@ image: '/images/daniil-silantev-ioYwosPYC0U-unsplash.jpg'
 leadimage: '/images/daniil-silantev-ioYwosPYC0U-unsplash.jpg'
 description: 'What can be built to make collaboration a reality in self-research?'
 ---
+<p style="color:#aaa;line-height:1.2;"><small><i>This is cross-posted from <a href="https://blog.openhumans.org/2020/01/24/collaborating-on-individual-discovery/">the original on the Open Humans blog</a>.</i></small></p>
+
 <p style="color:#aaa;line-height:1.2;"><small><i>About the authors: Mad Price Ball and <a href="https://tzovar.as/">Bastian Greshake Tzovaras</a> lead Open Humans as Executive Director and Director of Research, a nonprofit project dedicated to empowering individuals and communities around their personal data, to explore and share for the purposes of education, health, and research. We have other diverse work in open science, data technology, digital and research ethics, health and humans subjects research, and citizen science. We’ve been thinking about this for a while now: <b>What can be built to make collaboration a reality in self-research?</b></i></small></p>
 
 Gary Wolf’s call for enabling individual discovery describes a vision we also share: we believe in the untapped potential of people studying themselves. Answering questions relevant to their own lives, with motivations ranging from chronic disease to curiosity. We encourage you to read what he’s written: <a href="https://medium.com/article-27/10milliondiscoveries-1570a79f0334">“How to Make 10 Million Discoveries”</a>
